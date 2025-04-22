@@ -1,0 +1,1 @@
+# snap7-scan-cli
